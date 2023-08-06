@@ -1,0 +1,11 @@
+.logo {
+  width: 200px;
+  height: 200px;
+}
+
+.buttonShape {
+  border-radius: 50%;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
